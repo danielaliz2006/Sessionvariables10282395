@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\SessionVariable10282395\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3FBF4E-9A72-46A5-8ED8-EEA503BE07E2}|SessionVariable10282395\\SessionVariable10282395.csproj|c:\\users\\mineducyt\\onedrive\\nueva carpeta\\onedrive\\desktop\\practica 3\\sessionvariable10282395\\sessionvariable10282395\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3FBF4E-9A72-46A5-8ED8-EEA503BE07E2}|SessionVariable10282395\\SessionVariable10282395.csproj|solutionrelative:sessionvariable10282395\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3FBF4E-9A72-46A5-8ED8-EEA503BE07E2}|SessionVariable10282395\\SessionVariable10282395.csproj|c:\\users\\mineducyt\\onedrive\\nueva carpeta\\onedrive\\desktop\\practica 3\\sessionvariable10282395\\sessionvariable10282395\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CC3FBF4E-9A72-46A5-8ED8-EEA503BE07E2}|SessionVariable10282395\\SessionVariable10282395.csproj|solutionrelative:sessionvariable10282395\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionVariable.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\SessionVariable10282395\\SessionVariable10282395\\SessionVariable.aspx.cs",
+              "RelativeDocumentMoniker": "SessionVariable10282395\\SessionVariable.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\SessionVariable10282395\\SessionVariable10282395\\SessionVariable.aspx.cs",
+              "RelativeToolTip": "SessionVariable10282395\\SessionVariable.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:58:20.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionVariable.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\SessionVariable10282395\\SessionVariable10282395\\SessionVariable.aspx",
+              "RelativeDocumentMoniker": "SessionVariable10282395\\SessionVariable.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Nueva carpeta\\OneDrive\\Desktop\\Practica 3\\SessionVariable10282395\\SessionVariable10282395\\SessionVariable.aspx",
+              "RelativeToolTip": "SessionVariable10282395\\SessionVariable.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T19:54:03.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
